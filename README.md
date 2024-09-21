@@ -28,3 +28,6 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
+
+### Credit
+https://github.com/divanov11/StudyBud/tree/master
