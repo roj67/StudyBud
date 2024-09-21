@@ -1,11 +1,11 @@
-## StudyBud
+# StudyBud
 
-# Clone the repository:
+### Clone the repository:
 ```
 git clone
 ```
 
-# Create a virtual environment
+### Create a virtual environment
 ```
 # Install virtualenv first
 pip install virtualenv
@@ -14,17 +14,17 @@ pip install virtualenv
 virtualenv envname
 ```
 
-# Activate the virtual environment
+### Activate the virtual environment
 ```
 envname\scripts\activate
 ```
 
-# Install the requirements
+### Install the requirements
 ```
 pip install -r requirements.txt
 ```
 
-# Running the app
+### Running the app
 ```
 python manage.py runserver
 ```
